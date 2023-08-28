@@ -1,0 +1,20 @@
+/* import open sans */
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,700");
+
+#root {
+  font-family: "Open Sans", sans-serif;
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.social-button {
+  height: 30px;
+  width: 30px;
+  padding: 15px;
+}
+
+.form-register {
+  min-width: 400px;
+}

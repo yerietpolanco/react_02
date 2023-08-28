@@ -1,0 +1,7 @@
+[*.jsx]
+indent_size=2
+indent_style=spaces
+
+[*.css]
+indent_size=2
+indent_style=spaces
